@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "894633405274",
+    "project_id": "login-app-3a777",
+    "storage_bucket": "login-app-3a777.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894633405274:android:9ec0eac82f220fae486163",
+        "android_client_info": {
+          "package_name": "com.example.fm_loginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894633405274-7e5lrf4mpnrg80rflpg71elt3mmndj1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6LfSm5nE-_SMeHFLpsQZJtYXzojLYU0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894633405274-7e5lrf4mpnrg80rflpg71elt3mmndj1l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
